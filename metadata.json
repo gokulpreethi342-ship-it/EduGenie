@@ -1,0 +1,6 @@
+{
+  "name": "EduGenie - AI-Driven Educational Assistant",
+  "description": "Interactive study companion powered by Gemini for instant Q&A, simplified explanations, 3-question interactive quizzes with instant evaluation, summarization, and progressive learning paths.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
